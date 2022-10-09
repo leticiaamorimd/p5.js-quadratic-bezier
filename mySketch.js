@@ -1,6 +1,6 @@
 let p0, p1
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(1000, 1000);
   p0 = new Particle(0, 300);
   p1 = new Particle(800, 300);
   p2 = new Particle(400, 400);
